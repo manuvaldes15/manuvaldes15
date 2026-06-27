@@ -1,30 +1,28 @@
-# 👋 Hola, soy Manuel Valdés
+# Hola, soy Manuel Valdés :)
 
-## 💫 Software Engineer
+## 👾 Software Engineer 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manuel-alejandro-valdes-zuniga-6a1a63315/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/manuvaldes._/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuel.valdes@catolica.edu.sv)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manuvaldes15)
 
 ```
-En la búsqueda de crecer en cada commit.
-Construyo soluciones escalables con código limpio y experiencias intuitivas.
+En la búsqueda de aprender algo nuevo en cada commit.
 ```
 
 ---
 
 ## 🚀 Sobre mí
 
-Ingeniero en Desarrollo de Software especializado en **desarrollo web** y **diseño UX/UI**. 
+Egresado en Ingeniería en Desarrollo de Software especializado en **desarrollo web** y **diseño UX/UI**. 
 Con experiencia real en **Java backend** y **full stack development**.
 
 **Actualmente:** Java Developer @ COOP-1 de R.L. | Co-fundador @ DoubleViStudio
 
-**Características clave:**
-- 🎯 Proactivo y enfocado en soluciones efectivas
-- 🧠 Capacidad para resolver problemas complejos
-- 🤝 Comunicación clara y trabajo en equipo
-- 📚 Aprendizaje continuo y adaptabilidad
-
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 ### **Languages**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -83,19 +81,7 @@ Con experiencia real en **Java backend** y **full stack development**.
 
 ---
 
-## 🌐 Conecta conmigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manuel-alejandro-valdes-zuniga-6a1a63315/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/manuvaldes._/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuel.valdes@catolica.edu.sv)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manuvaldes15)
-
----
 
 <div align="center">
-
-**"Cada línea de código es una oportunidad para aprender y crecer"** 💻
-
 *Hecho con ❤️ en El Salvador*
-
 </div>
