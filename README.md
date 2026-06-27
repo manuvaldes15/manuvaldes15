@@ -1,18 +1,13 @@
 # Hola, soy Manuel Valdés :)
 
-## 👾 Software Engineer 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manuel-alejandro-valdes-zuniga-6a1a63315/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/manuvaldes._/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuel.valdes@catolica.edu.sv)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manuvaldes15)
 
 ```
-En la búsqueda de aprender algo nuevo en cada commit.
+👾 Software Engineer - En la búsqueda de aprender algo nuevo en cada commit.
 ```
-
----
-
 ## 🚀 Sobre mí
 
 Egresado en Ingeniería en Desarrollo de Software especializado en **desarrollo web** y **diseño UX/UI**. 
@@ -54,7 +49,6 @@ Con experiencia real en **Java backend** y **full stack development**.
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 ### **Design & Tools**
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
