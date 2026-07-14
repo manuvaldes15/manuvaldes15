@@ -1,7 +1,6 @@
 # Hola, soy Manuel Valdés :)
 
-[![Portafolio](https://img.shields.io/badge/🤖style=for-the-badge&logo=php&logoColor=white)](https://manuelvaldes.vercel.app/)
-[![Portafolio](https://img.shields.io/badge/🤖_Portafolio-%232563EB.svg?style=for-the-badge)](https://manuelvaldes.vercel.app/)
+[![Portafolio](https://img.shields.io/badge/🤖_Portafolio-%23777BB4.svg?style=for-the-badge)](https://manuelvaldes.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manuel-alejandro-valdes-zuniga-6a1a63315/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/manuvaldes._/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuel.valdes@catolica.edu.sv)
