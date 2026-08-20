@@ -62,21 +62,6 @@ Con experiencia real en **Java backend** y **full stack development**.
 
 ---
 
-## 📈 Estadísticas GitHub
-
-<div align="center">
-
-![](https://github-readme-stats.shion.dev/api?username=manuvaldes15&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
-![](https://streak-stats.demolab.com/?user=manuvaldes15&theme=one_dark_pro&hide_border=true)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=manuvaldes15&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-
 <div align="center">
 *Hecho con ❤️ en El Salvador*
 </div>
